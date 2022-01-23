@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Attia (@MuhammadAttia3) currently i work as Creative 3D Exhibition & Event Designer.
+- 👋 Hi, I’m Muhammad Attia (@MuhammadAttia3) currently i work as Creative 3D Exhibition & Event Designer full time Job.
 - 👀 I’m interested in learning in general coding got my iattention long time ago.
 - 🌱 I’m currently learning JS, HTML, CSS & node.js.
 - 💞️ I’m looking to collaborate on Big Project after building my personal website as a kick start to have a solid knowlage.
